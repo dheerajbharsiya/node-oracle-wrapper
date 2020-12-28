@@ -1,0 +1,1 @@
+export const testFun = (name: string) => `Testing ${name || 'test'}`; 
